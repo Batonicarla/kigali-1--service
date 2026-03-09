@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686403517500",
+    "project_id": "kgl-service",
+    "storage_bucket": "kgl-service.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686403517500:android:19048b8b089b7ee95d9739",
+        "android_client_info": {
+          "package_name": "com.kigali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4A9XoIPQTX8Q0V29fp6n-9I_MJlyPYcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
